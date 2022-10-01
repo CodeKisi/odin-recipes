@@ -1,2 +1,2 @@
-# odin-recipies
-My own version of odin-recipie from The Odin Project.
+# odin-recipes
+My own version of odin-recipes from The Odin Project.
